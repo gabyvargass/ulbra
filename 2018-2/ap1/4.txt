@@ -1,0 +1,14 @@
+Faça um algoritmo que receba o ano de nascimento de uma pessoa e o ano atual, calcule e escreva a idade desta pessoa e quantos anos ela terá em 2050.
+Algoritmo "idade"
+Var
+   val1,val2,val3:real
+
+Inicio
+      val3<-2050
+     	escreval("Digite sua data de nascimento: ")
+     	leia (val1)
+     	escreval ("Digite o ano desta mensagem: ")
+     	leia (val2)
+     	escreval ("No ano de 2050 você terá: ",val3-val1)
+     	escreva ("anos")
+Fimalgoritmo

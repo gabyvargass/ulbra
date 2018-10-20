@@ -1,0 +1,14 @@
+ Faça um algoritmo que lê o número de um funcionário, seu número de horas de trabalhadas e o valor que ele recebe por hora. o algoritmo deve calcular e mostrar o salario desde funcionario.
+Algoritmo "Salario"
+Var 
+NF,NHT,VPH,resultado:real
+Inicio
+escreva ("digite o numero do funcionario ")
+leia(NF)
+escreva ("digite o numero de horas trabalhadas ")
+leia (NHT)
+escreva ("digite o valor por hora ")
+leia (VPH)
+Resultado <- (NHT * VPH)
+escreva ("resultado =  ", resultado)
+Fimalgoritmo
